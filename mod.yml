@@ -5,4 +5,4 @@ assets:
 - name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
   method: copy
   source:
-  - name: remastered\chicken_little.scd
+  - name: chicken_little.scd
