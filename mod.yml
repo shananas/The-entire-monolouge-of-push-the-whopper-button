@@ -1,0 +1,8 @@
+title: The entire monolouge of push the whopper button
+originalAuthor: Shananas
+description:
+assets:
+- name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
+  method: copy
+  source:
+  - name: remastered\chicken_little.scd
