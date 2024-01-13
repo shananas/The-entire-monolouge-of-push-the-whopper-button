@@ -1,6 +1,6 @@
 title: The entire monolouge of push the whopper button
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
   method: copy
